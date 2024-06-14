@@ -1,0 +1,9 @@
+{
+  "name": "logger",
+  "version": "1.0.0",
+  "description": "Better than console.log",
+  "main": "src/index.ts",
+  "repository": "https://github.com/ringo360/logger.git",
+  "author": "ringoXD",
+  "license": "MIT"
+}
