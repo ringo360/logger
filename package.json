@@ -1,9 +1,17 @@
 {
-  "name": "logger",
-  "version": "1.0.0",
-  "description": "Better than console.log",
-  "main": "src/index.ts",
-  "repository": "https://github.com/ringo360/logger.git",
-  "author": "ringoXD",
-  "license": "MIT"
+	"name": "logger",
+	"version": "1.0.0",
+	"description": "Better than console.log",
+	"main": "src/index.ts",
+	"scripts": {
+		"example": "tsx src/example.ts"
+	},
+	"repository": "https://github.com/ringo360/logger.git",
+	"author": "ringoXD",
+	"license": "MIT",
+	"devDependencies": {
+		"tsc": "^2.0.4",
+		"tsx": "^4.15.4",
+		"typescript": "^5.4.5"
+	}
 }
